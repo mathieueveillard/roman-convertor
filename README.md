@@ -1,17 +1,7 @@
-# js-kata-starter
+# Roman converter
 
-Starter project for kata (Node, TypeScript, Jest)
+Write a function that converts a number into a roman numeral, e.g.:
 
-## Installation
-
-```shell
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
-```
-
-## Development
-
-```shell
-npm test
+```typescript
+toRomanNumeral(147); // CXLVII
 ```
